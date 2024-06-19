@@ -1,0 +1,12 @@
+.navbar{
+    height: 80px;
+    
+}
+
+.navbar-brand{
+   
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    display: contents;
+}
